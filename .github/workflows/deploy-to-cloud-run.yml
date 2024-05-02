@@ -3,7 +3,7 @@ name: Deploy to Google Cloud Run
 on:
   push:
     branches:
-      - main  # Or any other branch from which you want to deploy
+      - main  # Or any other branch from which you want to deploy 
 
 jobs:
   deploy:
